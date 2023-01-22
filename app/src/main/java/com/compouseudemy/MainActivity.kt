@@ -31,9 +31,7 @@ private fun NewStory(){
 
     Column (modifier = Modifier.padding(16.dp)){
         Image(painter = image, contentDescription = "Header")
-        Text(text = "Titulo de la noticia")
-        Text(text = "Titulo de la noticia")
-        Text(text = "Titulo de la noticia")
+
     }
 }
 
